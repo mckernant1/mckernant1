@@ -1,10 +1,10 @@
-# Mckernant1 Repos
+## Mckernant1 Repos
 
-## Areas of work
+### Areas of work
 - Discord 
 - LoL 
-- The Cloud! mainly AWS
+- The Cloud
 
-## Favorite Languages
+### Favorite Languages
 - Kotlin
 - Rust
