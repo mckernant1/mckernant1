@@ -1,9 +1,9 @@
 ## Mckernant1 Repos
 
 ### Areas of work
-- Discord 
-- LoL 
-- The Cloud
+- Discord Bot
+- LoL
+- The Cloud and Distributed Systems!
 
 ### Favorite Languages
 - Kotlin
